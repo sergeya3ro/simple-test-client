@@ -1,9 +1,9 @@
 # simple-test-client
 
 ## Description
-Simple TCP-client
-default server ip: "0.0.0.0"
-default server port: 8080
+Simple TCP-client  
+default server ip: "0.0.0.0"  
+default server port: 8080  
 
 ## Install
 ```python
